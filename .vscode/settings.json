@@ -1,0 +1,13 @@
+{
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "vetur.format.defaultFormatterOptions": {
+    "prettier": {
+      "printWidth": 130,
+      "singleQuote": false,
+      "tabWidth": 2,
+      "htmlWhitespaceSensitivity": "ignore"
+    }
+  }
+}
